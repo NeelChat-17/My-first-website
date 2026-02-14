@@ -10,3 +10,7 @@ def home():
 def signup():
   print('This is the signup page for new user')
 
+@app.route('/login')
+def login():
+    print('This is the login page already registered user')
+
