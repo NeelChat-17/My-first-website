@@ -1,1 +1,9 @@
 Here I will plan my project as I proceed
+Creating the structure first
+---> How the first page will look
+---> What will it ask user for
+        ---> it will ask for login or signup
+if login
+    ---> refer to the database and retrieve all the details
+if sigup
+    ---> a new entry to database
